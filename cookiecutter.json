@@ -3,5 +3,8 @@
   "description": "describe the project",
   "full_name": "Semyeong Oh",
   "email": "semyeong@astro.princeton.edu",
-  "github_username": "smoh"
+  "github_username": "smoh",
+  "_copy_wihout_render": [
+    "notebook.mplstyle"
+  ]
 }
