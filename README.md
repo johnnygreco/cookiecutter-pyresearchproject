@@ -1,6 +1,6 @@
 # cookiecutter-pyresearchproject
 
-Boilerplate for [cookiecutter](https://github.com/audreyr/cookiecutter)
+[Cookiecutter](https://github.com/audreyr/cookiecutter) boilerplate
 for a python-centered research project
 
 Do `cookiecutter https://github.com/smoh/cookiecutter-pyresearchproject`,
@@ -21,3 +21,5 @@ $ tree \{\{cookiecutter.project_name\}\}
 └── {{cookiecutter.project_name}}
     └── __init__.py
 ```
+
+After generation, you can also download [AAS journals paper template](https://github.com/smoh/cookiecutter-aasdraft), too.
