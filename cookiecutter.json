@@ -1,9 +1,9 @@
 {
   "project_name": "project name",
   "description": "describe the project",
-  "full_name": "Semyeong Oh",
-  "email": "semyeong@astro.princeton.edu",
-  "github_username": "smoh",
+  "full_name": "Johnny Greco",
+  "email": "jgreco@astro.princeton.edu",
+  "github_username": "johnnygreco",
   "_copy_wihout_render": [
     "notebook.mplstyle"
   ]

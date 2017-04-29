@@ -3,5 +3,5 @@
 read -p "Download paper template as well?" download
 if [[ "$download" =~ ^[Yy]$ ]]
 then
-  cookiecutter https://github.com/smoh/cookiecutter-aasdraft
+  cookiecutter https://github.com/johnnygreco/cookiecutter-aasdraft
 fi
